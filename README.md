@@ -13,4 +13,10 @@ apt install git python3
 ```
 git clone https://github.com/ahmad458953/Python_hacking_no_root.git
 ```
+```
+cd Python_hacking_no_root
+```
+```
+python3 <what tool you want
+```
 
